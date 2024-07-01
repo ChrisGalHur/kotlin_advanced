@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/main"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".ResumeActivity"
+        android:background="@drawable/fondo2">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/clTopResume"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintBottom_toTopOf="@+id/glTop">
+
+        <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                app:srcCompat="@drawable/arrow_yellow"
+                android:id="@+id/imageView12"
+                android:adjustViewBounds="true"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintBottom_toBottomOf="parent" />
+
+        <TextView
+                android:text="Puntos de Interés"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView3"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintStart_toEndOf="@+id/imageView12"
+                android:layout_marginStart="-10dp"
+                android:textSize="20sp"
+                android:textColor="@color/letters_light_blue" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <androidx.constraintlayout.widget.Guideline
+            android:orientation="horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/glTop"
+            app:layout_constraintGuide_percent="0.0588" />
+
+
+    <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#979797"
+            app:layout_constraintTop_toBottomOf="@+id/glTop"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:id="@+id/view" />
+
+    <TextView
+            android:text="Bienvenida"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvTitleResume"
+            android:textColor="@color/letters_dark_blue"
+            app:layout_constraintBottom_toBottomOf="@+id/ivNumResume"
+            app:layout_constraintStart_toEndOf="@+id/ivNumResume"
+            app:layout_constraintTop_toTopOf="@+id/ivNumResume"
+            android:layout_marginStart="10dp"
+            android:textSize="34sp"
+            android:textStyle="bold" />
+
+    <ImageView
+            android:layout_width="42dp"
+            android:layout_height="43dp"
+            app:srcCompat="@drawable/num1"
+            android:id="@+id/ivNumResume"
+            app:layout_constraintTop_toTopOf="@+id/glTop"
+            android:layout_marginTop="30dp"
+            app:layout_constraintStart_toStartOf="@+id/guideline4" />
+
+    <androidx.constraintlayout.widget.Guideline
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/guideline4"
+            app:layout_constraintGuide_begin="10dp" />
+
+    <androidx.constraintlayout.widget.Guideline
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/guideline5"
+            app:layout_constraintGuide_end="10dp" />
+
+    <androidx.cardview.widget.CardView
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            app:layout_constraintStart_toStartOf="@+id/guideline4"
+            app:layout_constraintEnd_toStartOf="@+id/guideline5"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            app:cardCornerRadius="10dp"
+            android:id="@+id/cardView"
+            app:layout_constraintBottom_toTopOf="@+id/cardView12"
+            app:layout_constraintTop_toBottomOf="@+id/ivNumResume">
+
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+            <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    app:srcCompat="@drawable/montgo_6"
+                    android:id="@+id/ivPlaceResume"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    android:adjustViewBounds="true" />
+
+            <ScrollView
+                    android:layout_width="0dp"
+                    android:layout_height="0dp"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginEnd="10dp"
+                    android:layout_marginTop="15dp"
+                    android:id="@+id/svExplanationResume"
+                    app:layout_constraintTop_toBottomOf="@+id/ivPlaceResume"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    android:scrollbars="none">
+
+                <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical">
+
+                    <TextView
+                            android:text="TextView"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textSize="14sp"
+                            android:id="@+id/tvExplanationResume" />
+                </LinearLayout>
+            </ScrollView>
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+            android:layout_width="0dp"
+            android:layout_height="70dp"
+            app:layout_constraintStart_toStartOf="@+id/guideline4"
+            app:layout_constraintEnd_toStartOf="@+id/guideline5"
+            app:cardCornerRadius="10dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            android:layout_marginBottom="16dp"
+            android:id="@+id/cardView12"
+            app:cardBackgroundColor="@color/letters_dark_blue">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+            <SeekBar
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="15dp"
+                    android:layout_marginEnd="15dp"
+                    android:id="@+id/seekBarResume"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    android:layout_marginTop="10dp"
+                    android:progressTint="#016C83"
+                    android:thumb="@drawable/custom_thumb" />
+
+            <ImageView
+                    android:layout_width="23dp"
+                    android:layout_height="25dp"
+                    app:srcCompat="@drawable/play_custom"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    android:id="@+id/btPlayResume"
+                    app:layout_constraintTop_toBottomOf="@+id/seekBarResume"
+                    app:layout_constraintBottom_toBottomOf="parent" />
+
+            <TextView
+                    android:text="TextView"
+                    android:layout_width="56dp"
+                    android:layout_height="14dp"
+                    android:id="@+id/tvTimeCurrentResume"
+                    app:layout_constraintStart_toStartOf="@+id/seekBarResume"
+                    app:layout_constraintTop_toBottomOf="@+id/seekBarResume"
+                    android:textColor="#B6B5B5"
+                    android:textSize="10sp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginStart="15dp" />
+
+            <TextView
+                    android:text="TextView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/tvTimeTotalResume"
+                    app:layout_constraintEnd_toEndOf="@+id/seekBarResume"
+                    app:layout_constraintTop_toBottomOf="@+id/seekBarResume"
+                    android:layout_marginTop="5dp"
+                    android:textSize="10sp"
+                    android:textColor="@color/grey"
+                    android:layout_marginEnd="15dp" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </androidx.cardview.widget.CardView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

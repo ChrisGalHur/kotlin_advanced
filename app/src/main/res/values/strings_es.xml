@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">Ejercicio final</string>
+    <string name="entrar">ENTRAR</string>
+    <string name="salir">SALIR</string>
+    <string name="introduccion">Introducción</string>
+    <string name="acantilados">Acantilados</string>
+    <string name="cala_pedrosa">Cala Pedrosa</string>
+    <string name="foradada">Foradada</string>
+    <string name="tres_coves">Tres Coves</string>
+    <string name="montgo">Montgó</string>
+    <string name="la_escala">L\'Escala</string>
+    <string name="empuries">Empúries</string>
+    <string name="medes_emergidas">Medes emergidas</string>
+    <string name="medes_sumergidas">Medes sumergidas</string>
+    <string name="cierre">Cierre</string>
+    <string name="explicacion_introduccion">Dejamos atrás la dársena del puerto de I\'Estartit y
+    ponemos rumbo a la Reserva Natural de las Illes Medes. Abrid bien los ojos y fijaros en la
+    belleza del entorno, una muestra excepcional del paisaje típicamente mediterráneo. Podréis
+    observar que este parque natural, creado en 2010 por la Generalitat de Catalunya, posee una
+    biodiversidad marina y terrestre muy valiosa y un patrimonio geológico sorprendente, rico en
+    formas, texturas y colores, y que da nombre a la Costa Brava. Seguro que no sabíais que el
+    Montgrí es una zona con uno de los poblamientos más antiguos de Cataluña. Desde la prehistoria,
+    la gente ha vivido de explotar los recursos, transformando y modelando el paisaje. Pero, a pesar
+    del impacto humano a lo largo de miles de años, mantiene un estado primigenio que le confiere un
+        atractivo único. Por este motivo, mantener su estado natural ¡nos corresponde a todos!
+    </string>
+    <string name="explicacion_acantilados">Miramos hacia tierra, hacia los acantilados, seguro que
+        esta imagen nos quedará grabada en la memoria para siempre. Estos despeñaderos
+        espectaculares y cautivadores provocan una sensación aguda de vértigo. Son 10 kilómetros de
+        costa abrupta y vertical desde el Cap de la Barra, en l\'Estartit, y cala Montgó, en el
+        límite con el municipio de l\'Escala. Sus paredes desnudas, de más de 100 metros de altura,
+        caen verticalmente sobre el fondo del mar hasta 50 metros de profundidad. Este patrimonio
+        geológico, casi único en Cataluña, engloba una costa abrumadora, rica y llena de contrastes,
+        con calas, cabos, golfos, islotes y cuevas, hábitat de una flora y de una fauna adaptada a
+        estos ambientes salubres. Esto es 100% Costa Brava.</string>
+    <string name="explicacion_cala_pedrosa">Llegamos a Cala Pedrosa. Las aguas del torrente que
+        desciende de las montañas abrieron esta grieta en los acantilados para crear una playa
+        solitaria en un entorno salvaje. Estamos en el mismísimo centro del Montgrí. Pedrosa es una
+        de las calas más salvajes de toda la Costa Brava; se trata de parajes solitarios, casi
+        mágicos, accesibles solamente a pie por el sendero que bordea la costa, o en barco. El
+        nombre de cala Pedrosa se inspira en todas las piedras que cubren el fondo de aguas
+        cristalinas. Si nos fijamos, podremos observar distintos tipos de peces. La cala está
+        protegida por pequeños escollos y por el islote del mismo nombre. La tranquilidad que se
+        respira en este rincón facilita la presencia de aves nidificantes, algunas de gran valor
+        ecológico, como el gavian argentado, el cuervo marino y el pájaro de tormenta.</string>
+    <string name="explicacion_foradada">El macizo del Montgrí representa una clara muestra de los
+        efectos caprichosos de la erosión sobre la roca. El viento y las olas son los responsables
+        de estas arquitecturas imposibles y formas impactantes, una visión espectacular que se
+        puede disfrutar desde el mar o desde tierra firme. Fijémonos en esta arcada, conocida con
+        el nombre de Foradada, un túnel natural de 40 metros de largo, 11 de altura y 5 de ancho,
+        excavado en la roca por la erosión a lo largo de millones de años. Si navegásemos en kayak
+        o en una pequeña embarcación la podríamos cruzar sin problema. Pero no durará siempre. Con
+        el tiempo, el techo de esta galería se terminará desprendiendo y la punta del Cap Castell,
+        donde se sitúa la Foradada, formará un nuevo islote, como se desprendió el que unía tierra
+        firme con las actuales Illes Medes.</string>
+    <string name="explicacion_tres_coves">El macizo del Montgrí se caracteriza por su gran número de
+        cuevas. Alguna de ellas, como el Cau del Duc en Torroella de Montgrí, sirvió de refugio de
+        los primeros pobladores, hace 300.000 años. En el tramo litoral hay más de una veintena de
+        cuevas submarinas. Ahora nos acercamos al paraje de las Tres Coves, en Cala Viuda. Las
+        aperturas en la roca dan entrada a un sistema de galerías submarinas, comunicadas entre sí
+        y con el exterior, con una profundidad máxima de 20 metros. Las que están por encima del
+        nivel del mar contienen cámaras de aire respirable en su interior. Los colores, las formas
+        rocosas de gran belleza o la diversidad de su fauna son la atracción de muchos
+        submarinistas. Es necesario recordar que éstas y otras cuevas marinas fueron usadas como
+        escondite de mercancías de contrabando. La proximidad con la frontera francesa propició el
+        tráfico ilegal de sal, alcohol, tabaco o medicamentos, especialmente en tiempos de
+        guerra.</string>
+    <string name="explicacion_montgo">Entramos en Cala Montgó. Estamos en la frontera entre los
+        municipios de Torroella de Montgrí y l\'Escala. Está presidida por la punta del Mila, que
+        hemos dejado atrás, y la punta de Trencabracos, ya en el término de l\'Escala. Nos
+        encontramos en una bahía de casi un kilómetro de diámetro que ha sido usada históricamente
+        como puerto natural y como zona de pesca. Tiene un fondo marino de gran valor ecológico.
+        Como podéis observar, están recubiertos de praderas de posidonia oceánica, una planta marina
+        que permite preservar una rica biodiversidad y proteger la arena de las playas de los
+        temporales. La huella humana sobre el territorio es aquí mucho más evidente y contrastada
+        con el estado natural del Montgrí. En este punto en dirección norte se extiende un sector
+        urbanizado hasta el municipio de l\'Escala. Fijaos también en la torre de vigilancia contra
+        la piratería que se erige al extremo de la cala. Construida en 1598, servía para detectar
+        barcos peligrosos y proteger a la población. Actualmente es un legado del rico patrimonio
+        marítimo y pesquero de esta zona y un excelente mirador del Parque Natural y de la bahía de
+        Roses. ¡Os animamos a visitarla!</string>
+    <string name="explicacion_la_escala">Nos acercamos al núcleo de l\'Escala. ¿Habéis probado yasus famosas anchoas? Es un producto sabroso, un aperitivo excepcional típicamente mediterráneo. De hecho, l\'Escala, como pueblo, nace gracias a la pesca en el siglo XVI. Fue un pequeño barrio de pescadores dedicado al pescado azul. Las aguas de toda esta bahía eran ricas en anchoas, sardinas y caballa. Con el tiempo, la pesca ha ido disminuyendo, y el pueblo se ha transformado en un destino eminentemente turístico. Aún conserva la esencia marinera del pasado y un rico patrimonio pesquero. Por su caso antiguo se respira un intenso ambiente a pesca y mar, inspiración de muchos escritores, como Víctor Catala y Josep Pla. La playa de las barcas, como la conocen los vecinos del casco antiguo de l\'Escala, está protegida por la singular roca del Caracol. En septiembre se celebra la tradicional Fiesta de la Sal, que rememora y homenajea los origenes pescadores y salazoneros de este municipio.</string>
+    <string name="explicacion_empuries">Llegamos a Sant Martí d’Empúries, un paraje con una historia milenaria. Este punto en concreto fue la puerta de entrada de griegos y romanos a la Península Ibérica. Como podemos ver, los restos del antiguo puerto de época griega evidencian que éste fue un enclave principalmente comercial que exportaba mercancías a todo el Mediterráneo. Más allá, se extiende un espectacular yacimiento que se explica en el Museo de Arqueología de Empúries, una parada obligada para conocer la historia del Emporda más remoto. En este punto, si miramos hacia el norte, tendremos una vista excepcional de la llanura del Emporda, suave, fértil y acogedora. Su cielo es aún más radiante cuando sopla el viento de tramontana. Aquí empieza la larga playa, de 17 km, que conecta con el Parque Natural dels Aiguamolls de l\'Emporda y con el municipio de Roses. ¡Fijaos! Al fondo domina la cordillera del Pirineo, con el Canigó en primer plano, un pico de 2.784 m. A partir de ahí... volvemos hacia las Medes.</string>
+    <string name="explicacion_medes_emergidas">Las Illes Medes son una Reserva Natural Integral desde los años 90. Tienen 21,5 hectáreas de extensión y la parte emergida está formada por siete islotes: Meda Gran, Meda Petita, Tascons grossos y petits, Carall Bernat, el Medallot y las Ferrenelles. Este conjunto rocoso se separó de tierra firme hace muchos millones de años para crear un biotopo muy característico. Las Medes destacan por sus valores naturales y por su diversidad de ambientes. Su vegetación está adaptada a un medio extremo, golpeado por el viento y la alta salinidad. También es refugio de numerosas especies de aves, como el gavian, el cuervo marino o el vencejo.  Estas islas han tenido mucha importancia desde un punto de vista histórico debido a su situación estratégica. Hace 500 años, los piratas africanos que asolaban el Mediterráneo usaban las Medes como escondite habitual. Sirvieron también de base de operaciones militares y fueron escenario de muchas batallas navales. Actualmente, el faro de la Meda Gran es el único faro catalán ubicado en una isla, a 86 metros sobre el nivel del mar.</string>
+    <string name="explicacion_medes_sumergidas">En el fondo marino de las llles Medes parece que el tiempo se detenga. Disfrutad de este entorno salvaje y primigenio, protegido por la reserva marina integral más espectacular del Mediterráneo occidental. Contemplad un ecosistema subacuático variado y abundante, con más de 27 tipos de hábitats. Destacan las paredes verticales tapizadas de comunidades de coralígeno: algas, gorgonias, esponjas, erizos y estrellas de mar. Las numerosas cuevas que cruzan estas islas albergan el famoso y preciado coral rojo, una especie que crece solamente 3 milímetros al año. En los fondos arenosos, las praderas de posidonia dan refugio a una gran variedad de peces, moluscos y cetáceos. Aprovechad y visitad el fondo de cristal. Identificaréis peces como el emblemático mero de las Medes, lubinas, sargos, salmonetes, sepias, nácares y centenares de especies más en su habitat.</string>
+    <string name="explicacion_cierre">Llegamos a puerto. Aquí acaba esta aventura con Nautilus. Esperamos que hayáis disfrutado de esta experiencia náutica y que nos volvamos a ver pronto. Os animamos a compartirla en las redes sociales. Para nosotros es importante que nos ayudéis a difundir los valores geológicos, biológicos y paisajísticos de este entorno natural, que queremos conservar y transmitir a las generaciones futuras. Recordad que el mar es cambiante y siempre nos puede sorprender. Con vuestra salida habéis entrado a formar parte de la historia del parque natural del Montgrí, las llles Medes y el Baix Ter, un espacio que agradece vuestra responsabilidad y compromiso con la preservación del medio ambiente. Pero l\'Estartit no se termina aquí, sino que os ofrece un amplio abanico de posibilidades, actividades emocionantes y experiencias lúdicas para toda la familia. ¡L\'Estartit os espera!</string>
+</resources>
