@@ -10,16 +10,16 @@ When creating each summary, I decided to make only a second activity, which is s
 
 In that summary, despite not being specified in the final exercise of the course, the sound area was included. Since I did not have the original sounds, I used a melody that we all surely know to demonstrate that I was able to reproduce sound just as the app that was provided to us did.
 
-Original:
-
+<h3>Original:</h3>
 <p align="center">
     <img src="assets/Kotlin_advanced_original1.png" alt="Imagen Original" width="25%">
     <img src="assets/Kotlin_advanced_original2.png" alt="Imagen Original" width="25%">
 </p>
-My version:
+
+<h3>My version:</h3>
 <p align="center">
-  <img src="assets/Kotlin_advanced_my_version1.png" alt="Imagen Original" width="25%">
-  <img src="assets/Kotlin_advanced_my_version2.png" alt="Imagen Original" width="25%">
+    <img src="assets/Kotlin_advanced_my_version1.png" alt="Imagen Original" width="25%">
+    <img src="assets/Kotlin_advanced_my_version2.png" alt="Imagen Original" width="25%">
 </p>
 
 You can <a href="https://github.com/ChrisGalHur/kotlin_advanced/raw/main/assets/app-debug.apk" target="_blank">download the .apk here</a>.
