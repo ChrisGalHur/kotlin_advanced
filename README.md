@@ -5,13 +5,13 @@ The project you can see is the final exam of the course where an <a href="https:
 Original:
 
 <p align="center">
-    <img src="assets/Kotlin_advanced_original1.png" alt="Imagen Original" width="35%">
-    <img src="assets/Kotlin_advanced_original2.png" alt="Imagen Original" width="35%">
+    <img src="assets/Kotlin_advanced_original1.png" alt="Imagen Original" width="25%">
+    <img src="assets/Kotlin_advanced_original2.png" alt="Imagen Original" width="25%">
 </p>
 My version:
 <p align="center">
-  <img src="assets/Kotlin_advanced_my_version1.png" alt="Imagen Original" width="35%">
-  <img src="assets/Kotlin_advanced_my_version2.png" alt="Imagen Original" width="35%">
+  <img src="assets/Kotlin_advanced_my_version1.png" alt="Imagen Original" width="25%">
+  <img src="assets/Kotlin_advanced_my_version2.png" alt="Imagen Original" width="25%">
 </p>
 
-You can find the .apk <a href="" target="_blank">here</a>.
+You can <a href="https://github.com/ChrisGalHur/kotlin_advanced/raw/main/assets/app-debug.apk" target="_blank">download the .apk here</a>.
