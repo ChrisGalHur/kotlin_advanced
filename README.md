@@ -5,11 +5,13 @@ The project you can see is the final exam of the course where an <a href="https:
 Original:
 
 <p align="center">
-  <img src="" alt="Imagen Original" width="45%">
+    <img src="assets/Kotlin_advanced_original1.png" alt="Imagen Original" width="35%">
+    <img src="assets/Kotlin_advanced_original2.png" alt="Imagen Original" width="35%">
 </p>
 My version:
 <p align="center">
-  <img src="" alt="Imagen Original" width="45%">
+  <img src="assets/Kotlin_advanced_my_version1.png" alt="Imagen Original" width="35%">
+  <img src="assets/Kotlin_advanced_my_version2.png" alt="Imagen Original" width="35%">
 </p>
 
 You can find the .apk <a href="" target="_blank">here</a>.
